@@ -1,7 +1,7 @@
 {
   "graph" : {
     "processes" : {
-      "Script0" : {
+      "Script2" : {
         "component" : "Script",
         "group" : null,
         "properties" : {
@@ -11,7 +11,7 @@
           "lastSchemaUpdate" : ""
         },
         "metadata" : {
-          "label" : "Script0",
+          "label" : "Script2",
           "x" : 1172,
           "y" : 116
         },
@@ -26,7 +26,7 @@
     "groups" : [ ],
     "locked" : false,
     "metainfo" : {
-      "lastUpdated" : 1629486950606,
+      "lastUpdated" : 1629487057291,
       "id" : "TestWorkflow",
       "memory" : 1,
       "imported" : true,
