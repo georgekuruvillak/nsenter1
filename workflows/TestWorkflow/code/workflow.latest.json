@@ -3,6 +3,7 @@
     "processes" : {
       "Script0" : {
         "component" : "Script",
+        "group" : null,
         "properties" : {
           "interim" : false,
           "cache" : false,
@@ -11,8 +12,8 @@
         },
         "metadata" : {
           "label" : "Script0",
-          "x" : 290,
-          "y" : 50
+          "x" : 832,
+          "y" : 264
         },
         "ports" : {
           "inputs" : [ ],
@@ -25,7 +26,7 @@
     "groups" : [ ],
     "locked" : false,
     "metainfo" : {
-      "lastUpdated" : 1629486107694,
+      "lastUpdated" : 1629486744922,
       "id" : "TestWorkflow",
       "memory" : 1,
       "imported" : true,
