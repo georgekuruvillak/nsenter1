@@ -41,7 +41,7 @@
         },
         "lineage" : ""
       },
-      "Script0" : {
+      "Script4" : {
         "component" : "Script",
         "group" : null,
         "properties" : {
@@ -51,7 +51,7 @@
           "lastSchemaUpdate" : ""
         },
         "metadata" : {
-          "label" : "Script0",
+          "label" : "Script4",
           "x" : 768,
           "y" : 346
         },
@@ -66,7 +66,7 @@
     "groups" : [ ],
     "locked" : false,
     "metainfo" : {
-      "lastUpdated" : 1629487377534,
+      "lastUpdated" : 1629487407541,
       "id" : "TestWorkflow",
       "memory" : 1,
       "imported" : true,
