@@ -1,0 +1,3 @@
+# TestProj2__external
+
+TestProj2__external repository
