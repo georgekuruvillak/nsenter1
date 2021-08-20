@@ -12,8 +12,8 @@
         },
         "metadata" : {
           "label" : "Script2",
-          "x" : 1328,
-          "y" : 126
+          "x" : 119,
+          "y" : 413
         },
         "ports" : {
           "inputs" : [ ],
@@ -46,7 +46,7 @@
     "groups" : [ ],
     "locked" : false,
     "metainfo" : {
-      "lastUpdated" : 1629487085340,
+      "lastUpdated" : 1629487183243,
       "id" : "TestWorkflow",
       "memory" : 1,
       "imported" : true,

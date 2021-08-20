@@ -10,7 +10,7 @@ import udfs.UDFs._
 import udfs._
 import graph._
 
-@Visual(id="Script2", label="Script2", x = 1328, y = 126, phase = 0)
+@Visual(id="Script2", label="Script2", x = 119, y = 413, phase = 0)
 object Script2 {
   
   def apply(spark: SparkSession): ScriptUnit = {
