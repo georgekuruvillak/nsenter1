@@ -16,6 +16,7 @@ object Main {
 
     Script2(spark)
     Script1(spark)
+    Script0(spark)
 
   }
 
